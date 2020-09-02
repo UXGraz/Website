@@ -54,13 +54,14 @@
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portfolio-item">
-                            <a class="portfolio-link" target="_blank" href="https://www.meetup.com/UXGrazCommunity/events/272741741/">
+                            <a class="portfolio-link" data-toggle="modal" href="https://www.meetup.com/UXPAA-Meetup/events/272354569/">
                                 <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="portfolio-caption-subheading text-primary">Tuesday, September 15, 2020</i></div>
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/Benutzerdefiniert – 6.jpg" alt="" />
+                                <img class="img-fluid" src="assets/img/portfolio/01-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
+                                <div class="portfolio-caption-subheading text-primary">Tuesday, September 15, 2020</div>
                                 <div class="portfolio-caption-heading">UX Graz Community Meetup Online</div>
                                 <div class="portfolio-caption-subheading text-muted">Online Meetup</div>
                             </div>
@@ -68,23 +69,23 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portfolio-item">
-                            <a class="portfolio-link" target="_blank" href="https://www.meetup.com/UXGrazCommunity/events/272482118/">
+                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
                                 <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="portfolio-caption-subheading text-primary">Thursday, September 24, 2020</i></div>
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/Benutzerdefiniert – 1.jpg" alt="" />
+                                <img class="img-fluid" src="assets/img/portfolio/02-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">UX/UI Books'n'Beer</div>
-                                <div class="portfolio-caption-subheading text-muted">Konny Hoffmann</div>
+                                <div class="portfolio-caption-heading">Explore</div>
+                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portfolio-item">
-                            <a class="portfolio-link" target="_blank" href="#portfolioModal3">
+                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
                                 <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="portfolio-caption-subheading text-primary">TBD</i></div>
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/03-thumbnail.jpg" alt="" />
                             </a>
@@ -96,9 +97,9 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
                         <div class="portfolio-item">
-                            <a class="portfolio-link" target="_blank" href="#portfolioModal4">
+                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
                                 <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="portfolio-caption-subheading text-primary">TBD</i></div>
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/04-thumbnail.jpg" alt="" />
                             </a>
@@ -112,7 +113,7 @@
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
                                 <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="portfolio-caption-subheading text-primary">TBD</i></div>
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
                             </a>
@@ -126,7 +127,7 @@
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                                 <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="portfolio-caption-subheading text-primary">TBD</i></div>
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
                                 <img class="img-fluid" src="assets/img/portfolio/06-thumbnail.jpg" alt="" />
                             </a>
